@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+You used to call me on my cellphone
 Use the left arrow to go back!
